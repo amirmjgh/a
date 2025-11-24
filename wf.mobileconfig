@@ -11,7 +11,7 @@
         <key>EncryptionType</key>
         <string>WPA2</string>
         <key>HIDDEN_NETWORK</key>
-        <false/>
+        <true/>
         <key>PayloadDescription</key>
         <string>Wi‑Fi network configuration</string>
         <key>PayloadDisplayName</key>
