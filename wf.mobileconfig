@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
-"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-    <key>PayloadContent</key>
-    <array>
-        <dict>
-            <key>AutoJoin</key>
-            <true/>
-            <key>EncryptionType</key>
-            <string>WPA2</string>
-            <key>HIDDEN_NETWORK</key>
-            <false/>
-            <key>PayloadDescription</key>
-            <string>Configures Wi-Fi settings</string>
-            <key>PayloadDisplayName</key>
-            <string>Wi-Fi hossein</string>
-            <key>PayloadIdentifier</key>
-            <string>com.user.wifi.hossein.001</string>
-            <key>PayloadOrganization</key>
-            <string>WiFi Config</string>
-            <key>PayloadType</key>
-            <string>com.apple.wifi.managed</string>
-            <key>PayloadUUID</key>
-            <string>E3B0C442-98FC-1C14-9AFB-4C9E77B9B4A1</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
-            <key>SSID_STR</key>
-            <string>hossein</string>
-            <key>Password</key>
-            <string>jahan5686</string>
-        </dict>
-    </array>
-    <key>PayloadDisplayName</key>
-    <string>Hossein Wi-Fi Config</string>
-    <key>PayloadIdentifier</key>
-    <string>com.user.profile.hosseinwifi.001</string>
-    <key>PayloadRemovalDisallowed</key>
-    <false/>
-    <key>PayloadType</key>
-    <string>Configuration</string>
-    <key>PayloadUUID</key>
-    <string>A1F7D3B4-2C6F-4E7D-8B2E-9F0A1C3D4E5F</string>
-    <key>PayloadVersion</key>
-    <integer>1</integer>
-</dict>
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>AutoJoin</key>
+        <true/>
+        <key>EncryptionType</key>
+        <string>WPA2</string>
+        <key>HIDDEN_NETWORK</key>
+        <false/>
+        <key>PayloadDescription</key>
+        <string>Wi‑Fi network configuration</string>
+        <key>PayloadDisplayName</key>
+        <string>hossein Wi‑Fi</string>
+        <key>PayloadIdentifier</key>
+        <string>com.yourdomain.wifi.hossein</string>
+        <key>PayloadOrganization</key>
+        <string>Your Organization</string>
+        <key>PayloadType</key>
+        <string>com.apple.wifi.managed</string>
+        <key>PayloadUUID</key>
+        <string>F6B2F484-AB5C-4D1F-B3E1-9F9A8D2C3E5B</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>SSID_STR</key>
+        <string>hossein</string>
+        <key>Password</key>
+        <string>jahan5686</string>
+        <key>ProxyType</key>
+        <string>None</string>
+      </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Hossein Wi‑Fi Profile</string>
+    <key>PayloadIdentifier</key>
+    <string>com.yourdomain.profile.hosseinwifi</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>4C3C2F8E-1EAB-49B8-8F9B-0D2F6A8F7C4D</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
 </plist>
